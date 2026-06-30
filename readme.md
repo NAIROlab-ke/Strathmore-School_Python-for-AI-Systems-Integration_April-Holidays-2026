@@ -2,9 +2,7 @@
 
 
 # Python for AI Systems Integration
-## Strathmore School, April 2026
-
-### Google Colab Links
+## April 2026 Holiday Program
 
 - 🗓️ [Day 1] **Introduction to Python** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10J6othx-BAQnTTLz4mlmW0LFNEZ8Gpu4?usp=sharing)
 - 🗓️ [Day 2] **OpenAI API** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YHq1INw2N3A7DMoFIRNHPGdyQoPFB6DQ?usp=sharing)
