@@ -1,7 +1,11 @@
-<img width="1136" height="574" alt="nairolab-github-banner-cropped" src="https://github.com/user-attachments/assets/8bd01230-dc2c-453b-be1e-558633052e63" />
+<div align="center">
 
+  <h1>Python for AI Systems Integration</h1>
 
-# Python for AI Systems Integration
+  <img width="1024" height="572" alt="py4aisi-april-2026" src="https://github.com/user-attachments/assets/e172f95e-6ffc-4af0-8c03-3b01b3104f96" />
+  
+</div>
+
 ## About this Course
 
 This program is about how AI systems components communicate using Python APIs. Topics range from Python fundamentals, to reading/writing JSON, to REST APIs for cloud AI services. Additional topics such as the MQTT protocol are introduced to show how AI systems can be integrated with IoT setups e.g. for home automation tasks.
